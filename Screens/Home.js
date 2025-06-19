@@ -8,6 +8,4 @@ function Home () {
 
 export default Home;
 
-const Styles = StyleSheet.create({ 
-
-})
+//new comment
